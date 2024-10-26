@@ -1,6 +1,6 @@
 {
-  "name": "ferns",
-  "description": "A fresh and vibrant theme inspired by nature.",
+  "name": "Ferns Theme for Vendetta",
+  "description": "A refreshing greenish theme inspired by ferns.",
   "authors": [
     {
       "name": "cloudy"
@@ -8,20 +8,14 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BG_BASE_PRIMARY": [
-      "#2A3B29"  // Dark green for background
-    ],
-    "ACCENT_COLOR": [
-      "#A8D5BA"  // Light green accent
-    ],
-    "TEXT_COLOR": [
-      "#F0F0F0"  // Light grey for readability
-    ]
+    "BG_BASE_PRIMARY": "#1E2D24",  // Dark green background
+    "BG_BASE_SECONDARY": "#2A3B29",  // Lighter dark green
+    "TEXT_COLOR": "#E8F5E9",  // Light greenish-grey for text
+    "ACCENT_COLOR": "#A8D5BA"  // Soft light green for accents
   },
   "rawColors": {
-    "PLUM_17": "#172C23",
-    "DEEP_GREEN": "#0B3D20",  // Deep green for contrast
-    "MOSS_GREEN": "#4A6E4D"    // Soft moss green
+    "DARK_GREEN": "#0B3D20",  // Deep green for contrast
+    "LIGHT_GREEN": "#B2E0D8"   // Very light green for UI elements
   },
   "background": {
     "blur": 0.4,
@@ -31,8 +25,8 @@
   "typography": {
     "headerFont": "Arial, sans-serif",
     "bodyFont": "Georgia, serif",
-    "headerSize": "24px",
-    "bodySize": "16px",
+    "headerSize": "20px",
+    "bodySize": "14px",
     "lineHeight": "1.5"
   },
   "buttonStyles": {
