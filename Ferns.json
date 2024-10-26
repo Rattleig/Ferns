@@ -1,35 +1,35 @@
 {
-  "name": "Ferns",
-  "description": "A refreshing greenish theme inspired by ferns.",
-  "authors": [
-    {
-      "name": "cloudy"
+    "name": "Ferns Theme for Vendetta",
+    "description": "A refreshing greenish theme inspired by ferns.",
+    "authors": [
+        {
+            "name": "cloudy"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BG_BASE_PRIMARY": "#1E2D24",
+        "BG_BASE_SECONDARY": "#2A3B29",
+        "TEXT_COLOR": "#E8F5E9",
+        "ACCENT_COLOR": "#A8D5BA"
+    },
+    "rawColors": {
+        "DARK_GREEN": "#0B3D20",
+        "LIGHT_GREEN": "#B2E0D8"
+    },
+    "background": {
+        "blur": 0.4,
+        "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alpha": 0.5
+    },
+    "typography": {
+        "headerFont": "Arial, sans-serif",
+        "bodyFont": "Georgia, serif",
+        "headerSize": "20px",
+        "bodySize": "14px",
+        "lineHeight": "1.5"
+    },
+    "buttonStyles": {
+        "hoverEffect": "opacity: 0.8; transition: opacity 0.3s;"
     }
-  ],
-  "spec": 2,
-  "semanticColors": {
-    "BG_BASE_PRIMARY": "#1E2D24",
-    "BG_BASE_SECONDARY": "#2A3B29",
-    "TEXT_COLOR": "#E8F5E9",
-    "ACCENT_COLOR": "#A8D5BA"
-  },
-  "rawColors": {
-    "DARK_GREEN": "#0B3D20",
-    "LIGHT_GREEN": "#B2E0D8"
-  },
-  "background": {
-    "blur": 0.4,
-    "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "alpha": 0.5
-  },
-  "typography": {
-    "headerFont": "Arial, sans-serif",
-    "bodyFont": "Georgia, serif",
-    "headerSize": "20px",
-    "bodySize": "14px",
-    "lineHeight": "1.5"
-  },
-  "buttonStyles": {
-    "hoverEffect": "opacity: 0.8; transition: 0.3s;"
-  }
 }
