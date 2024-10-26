@@ -1,5 +1,5 @@
 {
-  "name": "Ferns Theme for Vendetta",
+  "name": "Ferns",
   "description": "A refreshing greenish theme inspired by ferns.",
   "authors": [
     {
@@ -8,14 +8,14 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BG_BASE_PRIMARY": "#1E2D24",  // Dark green background
-    "BG_BASE_SECONDARY": "#2A3B29",  // Lighter dark green
-    "TEXT_COLOR": "#E8F5E9",  // Light greenish-grey for text
-    "ACCENT_COLOR": "#A8D5BA"  // Soft light green for accents
+    "BG_BASE_PRIMARY": "#1E2D24",
+    "BG_BASE_SECONDARY": "#2A3B29",
+    "TEXT_COLOR": "#E8F5E9",
+    "ACCENT_COLOR": "#A8D5BA"
   },
   "rawColors": {
-    "DARK_GREEN": "#0B3D20",  // Deep green for contrast
-    "LIGHT_GREEN": "#B2E0D8"   // Very light green for UI elements
+    "DARK_GREEN": "#0B3D20",
+    "LIGHT_GREEN": "#B2E0D8"
   },
   "background": {
     "blur": 0.4,
