@@ -1,6 +1,6 @@
 {
   "name": "ferns",
-  "description": "no",
+  "description": "A fresh and vibrant theme inspired by nature.",
   "authors": [
     {
       "name": "cloudy"
@@ -9,15 +9,33 @@
   "spec": 2,
   "semanticColors": {
     "BG_BASE_PRIMARY": [
-      "#243629"
+      "#2A3B29"  // Dark green for background
+    ],
+    "ACCENT_COLOR": [
+      "#A8D5BA"  // Light green accent
+    ],
+    "TEXT_COLOR": [
+      "#F0F0F0"  // Light grey for readability
     ]
   },
   "rawColors": {
-    "PLUM_17": "#172C23"
+    "PLUM_17": "#172C23",
+    "DEEP_GREEN": "#0B3D20",  // Deep green for contrast
+    "MOSS_GREEN": "#4A6E4D"    // Soft moss green
   },
   "background": {
-    "blur": 0.6,
+    "blur": 0.4,
     "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "alpha": 0.4
+    "alpha": 0.5
+  },
+  "typography": {
+    "headerFont": "Arial, sans-serif",
+    "bodyFont": "Georgia, serif",
+    "headerSize": "24px",
+    "bodySize": "16px",
+    "lineHeight": "1.5"
+  },
+  "buttonStyles": {
+    "hoverEffect": "opacity: 0.8; transition: 0.3s;"
   }
 }
