@@ -1,0 +1,23 @@
+{
+  "name": "ferns",
+  "description": "no",
+  "authors": [
+    {
+      "name": "cloudy"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BG_BASE_PRIMARY": [
+      "#243629"
+    ]
+  },
+  "rawColors": {
+    "PLUM_17": "#172C23"
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "alpha": 0.4
+  }
+}
