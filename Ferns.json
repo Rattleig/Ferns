@@ -1,35 +1,42 @@
 {
-    "name": "Ferns Theme for Vendetta",
-    "description": "A refreshing greenish theme inspired by ferns.",
-    "authors": [
-        {
-            "name": "cloudy"
-        }
-    ],
-    "spec": 2,
-    "semanticColors": {
-        "BG_BASE_PRIMARY": "#1E2D24",
-        "BG_BASE_SECONDARY": "#2A3B29",
-        "TEXT_COLOR": "#E8F5E9",
-        "ACCENT_COLOR": "#A8D5BA"
-    },
-    "rawColors": {
-        "DARK_GREEN": "#0B3D20",
-        "LIGHT_GREEN": "#B2E0D8"
-    },
-    "background": {
-        "blur": 0.4,
-        "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        "alpha": 0.5
-    },
-    "typography": {
-        "headerFont": "Arial, sans-serif",
-        "bodyFont": "Georgia, serif",
-        "headerSize": "20px",
-        "bodySize": "14px",
-        "lineHeight": "1.5"
-    },
-    "buttonStyles": {
-        "hoverEffect": "opacity: 0.8; transition: opacity 0.3s;"
+  "name": "Ferns",
+  "description": "A calming theme inspired by lush greenery, designed to evoke tranquility and connection to nature.",
+  "authors": [
+    {
+      "name": "Cloudy"
     }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BG_BASE_PRIMARY": [
+      "#243629"
+    ],
+    "TEXT_NORMAL": [
+      "#E0E0E0"
+    ],
+    "TEXT_MUTED": [
+      "#B0B0B0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#A3CDA5"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#8FBF8C"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#7FBF7B"
+    ]
+  },
+  "rawColors": {
+    "PLUM_17": "#172C23",
+    "GREEN_500": "#A3CDA5",
+    "GREEN_400": "#8FBF8C",
+    "GRAY_200": "#B0B0B0",
+    "WHITE_500": "#FFFFFF"
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "alpha": 0.4
+  }
 }
