@@ -11,6 +11,9 @@
     "BG_BASE_PRIMARY": [
       "#243629"
     ],
+    "BACKGROUND_PRIMARY": [
+      "#A3CDA5"
+    ],
     "TEXT_NORMAL": [
       "#E0E0E0"
     ],
@@ -30,6 +33,7 @@
   "rawColors": {
     "PLUM_17": "#172C23",
     "GREEN_500": "#A3CDA5",
+    "BACKGROUND_PRIMARY": "#A3CDA5",
     "GREEN_400": "#8FBF8C",
     "GRAY_200": "#B0B0B0",
     "WHITE_500": "#FFFFFF"
